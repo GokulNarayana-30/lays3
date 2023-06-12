@@ -30,9 +30,7 @@ color: white;
 padding: 10px;
 text-decoration: none;
 }
-.a:hover{
-    background-color: brown;
-}
+
 .grid{
     display: grid;
     display: flex;
@@ -182,7 +180,9 @@ input{
     border-radius: 50px;
     margin-right: 10px;
 }
-
+.a:hover{
+    background-color: brown;
+}
 .gridiiii{
     
     display: grid;
