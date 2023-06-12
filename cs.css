@@ -49,6 +49,9 @@ pre{
     grid-template-columns: auto auto auto auto;
     gap: 20px;
 }
+.a:hover{
+    background-color: brown;
+}
 .item1,.item2,.item3,.item4,.item5,.item6,.item7,.item8{
     height: 380px;
     width: 350px;
